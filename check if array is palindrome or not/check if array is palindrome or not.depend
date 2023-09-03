@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693490122 source:c:\users\new user.laptop-5glt5pl6\desktop\check if array is palindrome or not\main.c
+	<stdio.h>
+	<stdbool.h>
+
