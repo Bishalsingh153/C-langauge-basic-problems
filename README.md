@@ -1,1 +1,1 @@
-# C-langauge-basics-problems
+# C-langauge-basic-problems
