@@ -1,4 +1,3 @@
-//Sorry for long comments but its there for better understanding of the code .
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -17,10 +16,10 @@ int main()
 
 
      // Check for division by zero
-    if ((x2 - x1) == 0 || (x3 - x2) == 0) {
-        printf("Cannot calculate slope due to division by zero\n");
-        return 1; // Exit the program with an error code
-    }
+    //if ((x2 - x1) == 0 || (x3 - x2) == 0) {
+      //  printf("Cannot calculate slope due to division by zero\n");
+    //    return 1; // Exit the program with an error code
+    //}
 
     //there will be six inputs for six variables where each pair represent A B and C respectively
 
