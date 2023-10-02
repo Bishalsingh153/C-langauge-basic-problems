@@ -4,15 +4,15 @@
 
 int main()
 {
-    int x1,y1,x2,y2,x3,y3;
+    float x1,y1,x2,y2,x3,y3;
     printf("Enter value of x1 and y1 for point A\n");
-    scanf("%d %d",&x1,&y1);
+    scanf("%f %f",&x1,&y1);
 
     printf("Enter value of x2 and y2 for point B\n");
-    scanf("%d %d",&x2,&y2);
+    scanf("%f %f",&x2,&y2);
 
     printf("Enter value of x3 and y3 for point C\n");
-    scanf("%d %d",&x3,&y3);
+    scanf("%f %f",&x3,&y3);
 
 
 
